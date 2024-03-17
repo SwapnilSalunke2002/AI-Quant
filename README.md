@@ -1,6 +1,6 @@
 #AI-Quant 
 
-*Due to Confidentiality only particular files can be seen in this repository.*
+*(Due to Confidentiality only particular files can be seen in this repository.)*
 
 
 AI-Quant: Stock Market Analysis with Large Language Models
