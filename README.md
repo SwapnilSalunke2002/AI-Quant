@@ -1,4 +1,6 @@
-# AI-Quant
+# Due to Confidentiality only particular files can be seen in this repo...
+
+
 AI-Quant: Stock Market Analysis with Large Language Models
 
 AI-Quant is a mobile application built with Flutter that leverages the power of Large Language Models (LLMs) to analyze real-time stock market news and provide users with:
